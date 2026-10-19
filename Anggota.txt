@@ -1,7 +1,12 @@
 - Mia
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Faatin
 - Nazwa
+=======
+- Faatin Anandhiyaa Aufaa - 102022400082
+- Nazwa Nandita Asya - 102022430045
+>>>>>>> Stashed changes
 =======
 - Faatin Anandhiyaa Aufaa - 102022400082
 - Nazwa Nandita Asya - 102022430045
