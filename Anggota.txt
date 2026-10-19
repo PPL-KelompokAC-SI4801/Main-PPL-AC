@@ -1,6 +1,15 @@
 - Mia
+<<<<<<< Updated upstream
 - Faatin
 - Nazwa
 - Nazila
 - Fajar
 - Maul
+=======
+- Faatin Anandhiyaa Aufaa - 102022400082
+- Nazwa Nandita Asya - 102022430045
+- Nazila Syifa Amelia - 102022400184
+- Ihwan Fajar Maulana - 102022400124
+- Maul
+- Apip-102022400243
+>>>>>>> Stashed changes
